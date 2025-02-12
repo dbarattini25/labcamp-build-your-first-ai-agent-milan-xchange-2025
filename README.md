@@ -22,7 +22,7 @@ Before we start, make sure you have the following prerequisites installed on you
 
 ### Setup the environment:
 
-1. Create a new [python virtual environment](https://docs.python.org/3/tutorial/venv.html) in the project directory.
+#### 1. Create a new [python virtual environment](https://docs.python.org/3/tutorial/venv.html) in the project directory.
 
 For Linux/Mac users:
 
@@ -40,7 +40,7 @@ python -m venv .venv
 
 You can check if the virtual environment is activated by looking at the terminal prompt. If the virtual environment is activated, you should see the name of the virtual environment in the terminal prompt (e.g., `(.venv)`).
 
-2. After activating the virtual environment, install the required dependencies:
+#### 2. After activating the virtual environment, install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -48,13 +48,13 @@ pip install -r requirements.txt
 
 **N.B.**: Make sure that the virtual environment is activated in your current terminal session before running the above command.
 
-3. Install the [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions for VSCode
+#### 3. Install the [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions for VSCode
 
-4. Open the project folder in VSCode and open the notebook `0 - Environment Test.ipynb`.
+#### 4. Open the project folder in VSCode and open the notebook `0 - Environment Test.ipynb`.
 
-5. Check (in the top right corner) if the kernel is set to the virtual environment you created in the previous step. If not, change the kernel to the virtual environment.
+#### 5. Check (in the top right corner) if the kernel is set to the virtual environment you created in the previous step. If not, change the kernel to the virtual environment.
 
-6. Run the first cell of the notebook `0 - Environment Test.ipynb` to test the setup.
+#### 6. Run the first cell of the notebook `0 - Environment Test.ipynb` to test the setup.
 
 If you need help or have any questions, feel free to reach out to us. We are here to help you! 🤗
 
