@@ -62,6 +62,8 @@ Good luck and have fun! 🎉
 
 ## 🔗 Some useful links
 
+- [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_create-or-open-a-jupyter-notebook)
 - [More on LLM agents](https://www.promptingguide.ai/it/research/llm-agents)
 - [More on agents reasoning](https://www.promptingguide.ai/it/techniques/react)
 - [More on LangGraph](https://www.langchain.com/langgraph)
+- [ReAct Paper](https://arxiv.org/abs/2210.03629)
