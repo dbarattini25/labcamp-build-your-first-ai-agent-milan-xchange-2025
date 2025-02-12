@@ -1,0 +1,5 @@
+To avoid committing the jupyter notebook output, you can use the following command:
+
+```bash
+git config filter.strip-notebook-output.clean 'jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to=notebook --stdin --stdout --log-level=ERROR'
+```
