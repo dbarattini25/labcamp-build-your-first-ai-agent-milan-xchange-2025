@@ -1,15 +1,15 @@
-# 💻 LABCAMP - Build your first AI Agent
+# 💻 XChange 2025 - Build your first AI Agent Hands-On
 
 Welcome! 🚀
 
-In this labcamp, you will learn the basic concepts of AI agents and how to build your first AI agent using [LangGraph](https://www.langchain.com/langgraph).
-This repository contains the source code for the three labs that we will be working on during the labcamp. Each lab is defined in a Jupyter notebook with the necessary instructions and code snippets to guide you through the process of building your first AI agent.
+In this session, you will learn the basic concepts of AI agents and how to build your first AI agent using [LangGraph](https://www.langchain.com/langgraph).
+This repository contains the source code for the lab that we will be working on during the XChange 2025. The exercises are defined in Jupyter notebooks with the necessary instructions and code snippets to guide you through the process of building your first AI agent.
 
-This roadmap of this labcamp is as follows:
+This roadmap of this hands-on session is as follows:
 
-- 17:30 - 18:45: Introduction to AI agents
-- 18:45 - 19:00: Break
-- 19:00 - 20:00: Hands-On - Build your first AI agent
+- 14:30 - 14:40: Introduction to AI agents
+- 14:40 - 14:45: 5-Minute Buffer (transition or catch-up time)
+- 14:45 - 15:15: Hands-On - Build your first AI agent
 
 ## Pre-requisites
 
@@ -18,7 +18,9 @@ Before we start, make sure you have the following prerequisites installed on you
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Python](https://www.python.org/downloads/)
 
-**N.B.**: During the labcamp, we will provide you with an API key to access the OpenAI API. The API key should be stored in a file named `.env` in the root directory of the project. See the `.env.example` file for an example of how to store the API key.
+**N.B.**: During the hands-on session, all necessary tools, environments and libraries will already be pre-installed on the lab computers. You do not need to follow the setup instructions below unless you are working on your own machine outside of the hands-on lab.
+
+We will provide you with an API key to access the OpenAI API. The API key should be stored in a file named `.env` in the root directory of the project. See the `.env.example` file for an example of how to store the API key.
 
 ### Setup the environment:
 
