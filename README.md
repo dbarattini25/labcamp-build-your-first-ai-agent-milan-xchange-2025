@@ -7,8 +7,7 @@ This repository contains the source code for the lab that we will be working on 
 
 This roadmap of this hands-on session is as follows:
 
-- 14:30 - 14:40: Introduction to AI agents
-- 14:40 - 14:45: 5-Minute Buffer (transition or catch-up time)
+- 14:30 - 14:45: Introduction to AI agents
 - 14:45 - 15:15: Hands-On - Build your first AI agent
 
 ## Pre-requisites
@@ -33,14 +32,39 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-For Windows users:
+For Windows users (using PowerShell)
 
 ```bash
 python -m venv .venv
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 .\.venv\Scripts\activate
 ```
 
-You can check if the virtual environment is activated by looking at the terminal prompt. If the virtual environment is activated, you should see the name of the virtual environment in the terminal prompt (e.g., `(.venv)`).
+For Windows users (using Git Bash)
+
+```bash
+python -m venv .venv
+source .venv/Scripts/activate
+```
+
+To run commands in Git Bash inside Visual Studio Code:
+
+1. Click on the top menu: **Terminal → New Terminal**  
+2. Click the dropdown arrow near the terminal tab (usually says `powershell`)  
+3. Select **Git Bash** from the list of available terminals  
+
+You should now see a Git Bash session in the terminal window.  
+👉 *Reference image:*  
+![How to select Git Bash in VS Code](images/git_bash.png)
+
+Once you've activated the environment, your terminal prompt will show something like this:
+
+```bash
+(.venv)
+```
+
+This means your virtual environment is active and ready to use!  
+
 
 #### 2. After activating the virtual environment, install the required dependencies:
 
