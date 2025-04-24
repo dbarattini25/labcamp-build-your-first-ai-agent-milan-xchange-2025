@@ -16,12 +16,16 @@ Before we start, make sure you have the following prerequisites installed on you
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Python](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/downloads)
 
 **N.B.**: During the hands-on session, all necessary tools, environments and libraries will already be pre-installed on the lab computers. You do not need to follow the setup instructions below unless you are working on your own machine outside of the hands-on lab.
 
 We will provide you with an API key to access the OpenAI API. The API key should be stored in a file named `.env` in the root directory of the project. See the `.env.example` file for an example of how to store the API key.
 
 ### Setup the environment:
+
+#### 0. Clone the repository
+Clone the repository containing the exercises to your local system. If you’re unfamiliar with cloning a GitHub repository, you can follow [this](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) guide.
 
 #### 1. Create a new [python virtual environment](https://docs.python.org/3/tutorial/venv.html) in the project directory.
 
