@@ -20,7 +20,7 @@ Before we start, make sure you have the following prerequisites installed on you
 
 **N.B.**: During the hands-on session, all necessary tools, environments and libraries will already be pre-installed on the lab computers. You do not need to follow the setup instructions below unless you are working on your own machine outside of the hands-on lab.
 
-We will provide you with an API key to access the OpenAI API. The API key should be stored in a file named `.env` in the root directory of the project. See the `.env.example` file for an example of how to store the API key.
+It is necessary to have a OpenAI API key stored in a file named `.env` in the root directory of the project.
 
 ### Setup the environment:
 
